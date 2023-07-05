@@ -1,3 +1,5 @@
+> This repository is forked from https://github.com/andyleap/parser
+
 # Gencode
 Gencode is a code generation based data serialization/deserialization system.  Gencode attempts to both encode/decode fast, and have a small data size.
 
