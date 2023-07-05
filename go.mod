@@ -1,4 +1,4 @@
-module github.com/andyleap/gencode
+module github.com/BlackinkGJ/gencode
 
 go 1.18
 

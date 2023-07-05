@@ -3,7 +3,7 @@ package golang
 import (
 	"fmt"
 
-	"github.com/andyleap/gencode/schema"
+	"github.com/BlaCkinkGJ/gencode/schema"
 )
 
 type Walker struct {

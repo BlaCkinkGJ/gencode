@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/andyleap/gencode/schema"
+	"github.com/BlaCkinkGJ/gencode/schema"
 	"github.com/kr/pretty"
 )
 
